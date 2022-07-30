@@ -1,0 +1,3 @@
+# SPRINT-6
+
+DIAGRAMA DE RELACIONES DE LA TABLA --> diagrama.pgn
