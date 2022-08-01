@@ -1,0 +1,1 @@
+DELETE FROM CLIENTE WHERE customer_name='Noel' AND customer_surname='David'
